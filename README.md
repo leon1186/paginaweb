@@ -1,6 +1,6 @@
-This is a title H1
-This is a title 2
-This is an H3 title
+# This is a title H1
+## This is a title H2
+### This is an H3 title
 
 This is a descriptive text * bold text *
 > This is a text block or comment
